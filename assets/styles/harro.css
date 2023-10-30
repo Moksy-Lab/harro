@@ -31,7 +31,7 @@
     font-size: 20px
 }
 .aboutab8dfbbd4bed .Explore{
-    background-color: black;
+    background-color: #3B3B3B;
     padding: 16px;
     border: none;
     border-radius: 0px
@@ -39,11 +39,60 @@
 /* #apo(ab8dfbbd4bed) #css ends  */
 /*****apo*****/
 
-/*****caden*****/
-    /* #caden(c724c807cc8b8e9ab) #css starts  */
+/*****faye*****/
+/* #faye(fayete8bna5e4lc) #css starts */
+.fayete8bna5e4lc .fdb-block {
+    padding: 4.5rem 0
+}
+.fayete8bna5e4lc h2 {
+    font-size: 18px;
+    font-weight: 600
+}
 
-    .clientsc724c807cc8b8e9ab {
-      
-    }
-    /* #caden(c724c807cc8b8e9ab) #css ends  */
-/*****caden*****/
+.fayete8bna5e4lc    .fdb-block .fdb-box {
+    padding: 2.75rem 2.5rem
+     }
+
+     .fayete8bna5e4lc    .fdb-block .fdb-touch {
+      border-top: solid 0.3125rem #2E21DF
+     }
+     .fayete8bna5e4lc  a {
+    color: #33363D;
+    font-weight: 600
+     }
+     .fayete8bna5e4lc  a:hover {
+        color: #2E21DF;
+        font-weight: 600
+         }
+/* #faye(fayete8bna5e4lc) #css starts */
+/*****faye*****/
+
+/*****tamzin*****/ 
+/* #tamzin(teamtmo0iuz3mdx) #css starts */
+.teamtmo0iuz3mdx .fdb-block {
+    padding: 1.5rem 0;
+   }
+   .teamtmo0iuz3mdx h1{
+    font-size: 32px
+}
+    .teamtmo0iuz3mdx h4 {
+        font-size: 20px
+        }
+/* #tamzin(teamtmo0iuz3mdx) #css ends */
+/*****tamzin*****/
+
+/*****regin*****/ 
+/* #regin(h222fa673a781ab9e) #css starts */
+.registrationh222fa673a781ab9e h2{
+    font-size: 32px;
+    font-weight: 600
+}
+
+.registrationh222fa673a781ab9e p {
+    font-size: 20px
+}
+  .registrationh222fa673a781ab9e .btn-round{
+   display: none;
+  }
+  /* #regin(h222fa673a781ab9e) #css ends */
+/*****regin*****/ 
